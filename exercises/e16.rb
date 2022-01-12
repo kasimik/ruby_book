@@ -27,3 +27,8 @@ contacts.each_with_index do |(user, data), index|
 end
 
 p contacts
+
+=begin
+Key lessons: how the each method works (or each_key/each_value)
+shift returns and removes first element
+each_with_index method is powerful
